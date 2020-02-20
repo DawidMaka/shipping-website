@@ -1,0 +1,13 @@
+.b-color {
+	&-gray {
+		background-color: $gray;
+	}
+
+	&-gold {
+		background-color: $gold;
+	}
+
+	&-white {
+		background-color: $white;
+	}
+}
